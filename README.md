@@ -12,7 +12,7 @@ To use it, you'll need:
 ## installation instructions
 
 1. Create a [Google Drive Spreadsheet](https://drive.google.com). Open the Script Editor by going to Tools > Script Editor... and copy the contents of cbb-sidbar-schedule.js
-2. Create a reddit account for the script and mod with with "wiki" permissions.
+2. Create a reddit account for the script and mod with "wiki" permissions.
    Enter the username/password into your script.
 3. Get the id of the spreadsheet. It should be a long string of number and letters in the url of your spreadsheet. (e.g. If your spreadsheet url is https://docs.google.com/spreadsheets/d/15ltC0icv34Be4Dvm1drBmvDaAHLA94kQJkYLNm4sp8E/edit, then your spreadsheet id would be 15ltC0icv34Be4Dvm1drBmvDaAHLA94kQJkYLNm4sp8E)
 4. Create an [OAuth2 app](https://ssl.reddit.com/prefs/apps/) for the script to
